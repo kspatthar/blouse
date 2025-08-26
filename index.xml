@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amazon Mission Deals - Affiliate Feed</title>
+    <title>VastraKala Amazon Mission Deals</title>
     <link>https://www.amazon.in</link>
-    <description>Amazon India curated link with affiliate tag vastrakala-21</description>
-    <atom:link href="https://raw.githubusercontent.com/kspatthar/blouse/main/index.xml" rel="self" type="application/rss+xml" />
+    <description>Curated affiliate products from Amazon India with tag vastrakala-21</description>
+    <atom:link href="https://kspatthar.github.io/blouse/index.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Amazon Mission Deals Page</title>
-      <link>https://www.amazon.in/hz/mobile/mission?p=egXgQjlnNYKdso%2Fn210M6AmvQ%2FE5qc%2B%2BcNpkeu3%2Fe90sU0k0UypdGt2JXu2vZRmMw7WXtiJmHXkEmhl3dn%2BjmIYoE8e6Bywyt%2FwYnhQR89824tugkJ%2FRE%2BNaPkfb%2BstbvMC7Z6KsA462D4%2F2ytzc0a%2FOkHATg%2FxyAajRoSh%2BBZERqVG4S%2BmOvhtDm5NlHRiCPOozJHGpsYuEYJ3enE43XmNg95ATOwbiUntTMFIQ4jZdzAWdXmsZ0W0B6fzE2SPvXCCSDFIPYY%2FlZDXvbTdrp5roS%2Fe9T1aJxSISXsY2vj7JbcaGEOblZJiBgq55WoBBc3VtW3nXKP8G0YR7B%2F7TzLPtq0ymwr1oetjATk%2BWIjjOvmI2HA3FSlzaCTHuFjz93P0bXgREmoLu%2B4wEMfW4h59yOxx0mJrmqIYWT6jLLBaET6bqrnEaJzDQRPdbWLpO&amp;crid=1W4QWYTPAKNCM&amp;linkCode=ll2&amp;tag=vastrakala-21&amp;linkId=a64255b458ae240099a0c06fa7e2cdac&amp;language=en_IN&amp;ref_=as_li_ss_tl</link>
-      <description>Browse Amazon Mission Deals with affiliate tag vastrakala-21.</description>
-      <guid isPermaLink="true">https://www.amazon.in/hz/mobile/mission?tag=vastrakala-21</guid>
+      <title>Colorful Street Cotton Blouse - Black</title>
+      <link>https://www.amazon.in/dp/B08WHQG1Y5?tag=vastrakala-21</link>
+      <description>Half sleeve, stretchable round neck blouse. Ideal for casual wear.</description>
+      <guid isPermaLink="false">vastrakala-b08whqg1y5-001</guid>
+    </item>
+
+    <item>
+      <title>Abhi Cotton Saree Blouse - Net Sleeves</title>
+      <link>https://www.amazon.in/dp/B08WHQG1Y5?tag=vastrakala-21</link>
+      <description>Round neck, regular-fit, pull-on style blouse. Great for festive occasions.</description>
+      <guid isPermaLink="false">vastrakala-b08whqg1y5-002</guid>
+    </item>
+
+    <item>
+      <title>Pistaa Lemon Yellow Inskirt Petticoat</title>
+      <link>https://www.amazon.in/dp/B01DJ9B93A?tag=vastrakala-21</link>
+      <description>Comfortable cotton inskirt for sarees. Bright lemon yellow color.</description>
+      <guid isPermaLink="false">vastrakala-b01dj9b93a-001</guid>
+    </item>
+
+    <item>
+      <title>Studio Shringaar Kalamkari Blouse</title>
+      <link>https://www.amazon.in/dp/B0BFNPN1VY?tag=vastrakala-21</link>
+      <description>Printed tassar silk blouse with short sleeves. Available in multiple patterns.</description>
+      <guid isPermaLink="false">vastrakala-b0bfnpn1vy-001</guid>
+    </item>
+
+    <item>
+      <title>OOMPH! Schiffli Cotton Blouse</title>
+      <link>https://www.amazon.in/dp/B0BY68HG9T?tag=vastrakala-21</link>
+      <description>Traditional elbow-length blouse for weddings and festivals.</description>
+      <guid isPermaLink="false">vastrakala-b0by68hg9t-001</guid>
     </item>
 
   </channel>
